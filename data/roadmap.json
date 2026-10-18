@@ -1,0 +1,78 @@
+{
+  "phases": [
+    {
+      "years": "2026",
+      "tag": "Phase I · Validate",
+      "title": "Twenty-five practitioners, hand-recruited",
+      "body": "We don't build an ephemeris — we license one, and spend every hour on the two hardest-to-copy pillars: tradition-grounded interpretation and practitioner-owned voice models, wrapped in guardrails from day one.",
+      "moves": [
+        "License the calculation core (Prokerala / AstrologyAPI class)",
+        "Ship Corpus + Voice to a hand-picked design cohort",
+        "Guardrails on by default — SB 243 and NY §1700 are already law",
+        "Target brand-forward readers already selling on Instagram"
+      ],
+      "benchmark": "10 paying practitioners · $2–5K MRR",
+      "benchmarkTip": "The product-market-fit signal for vertical SaaS at this stage.",
+      "trigger": "5+ pre-payments → accelerate",
+      "triggerTip": "If five or more practitioners will pre-pay, the quit-your-job math begins."
+    },
+    {
+      "years": "2027–28",
+      "tag": "Phase II · Entrench",
+      "title": "Solve payments. Own distribution.",
+      "body": "The true moat: a high-risk / merchant-of-record payment relationship and web-first storefronts that route around both the processor ban-lists and Apple's Guideline 4.3. Attest ships exactly as state AI-disclosure laws multiply.",
+      "moves": [
+        "Land the MoR / high-risk processing relationship",
+        "Web-first storefronts & client apps — no app-store roulette",
+        "Ship Attest: verified-human attestation on C2PA-style rails",
+        "Ship Memory: consented, portable seeker context"
+      ],
+      "benchmark": "$50–100K MRR · <3% monthly churn",
+      "benchmarkTip": "Venture-fundable territory; churn under 3% proves the tool is load-bearing.",
+      "trigger": "At $100K MRR: raise seed, or stay lean — deliberately",
+      "triggerTip": "The report's Phase-2 decision gate: capital is a choice, not a default."
+    },
+    {
+      "years": "2029–31",
+      "tag": "Phase III · Compound",
+      "title": "Synthesis, and the network begins",
+      "body": "The genuinely novel IP ships: cross-system synthesis that weaves astrology, tarot, and numerology into one narrative. Discover opens — a seeker-facing layer across attested practitioners, at a take rate that funds the commons.",
+      "moves": [
+        "Ship the Synthesis layer — the defensible interpretive IP",
+        "Open Discover at a 10–20% network take",
+        "C2PA-style attestation embedded in every reading",
+        "Become the default tool cited in practitioner communities"
+      ],
+      "benchmark": "$250K–$1M MRR",
+      "benchmarkTip": "Category-leader scale for this niche, per the market map."
+    },
+    {
+      "years": "2032–33",
+      "tag": "Phase IV · Define",
+      "title": "Own the category into the attention wave",
+      "body": "2033 is a once-in-a-generation spike in spiritual attention — the Vatican's Holy Year of Redemption will put meaning-seeking on every front page. We ride the salience with category-defining PR, and never co-opt a Christian anniversary that is doctrinally hostile to divination.",
+      "moves": [
+        "Category-defining PR: “verified human” as the industry standard",
+        "Thousands of practitioners on attested infrastructure",
+        "Compliance + attestation + voice-model moat at full depth",
+        "Wellness-framed messaging — never predictive-occult, never appropriative"
+      ],
+      "benchmark": "Recognized category leader · Western practitioner infrastructure",
+      "benchmarkTip": "The 2033 goal, as scoped: leading the niche of practitioner infrastructure — not the astrology market at large."
+    }
+  ],
+  "thresholds": [
+    {
+      "term": "If payments stall by 2028",
+      "def": "Pivot to a pure software + voice-model tool that plugs into practitioners' existing Stripe-approved storefronts. The moat narrows; the company survives."
+    },
+    {
+      "term": "If a horizontal moves in",
+      "def": "Circle, Patreon, or an astrology-API vendor shipping practitioner tooling with attestation → accelerate Synthesis and the community moat, or pursue acquisition from strength."
+    },
+    {
+      "term": "If demand runs thin",
+      "def": "Narrow to high-value professional astrologers and coach-hybrids rather than the long tail. Fewer, deeper, more load-bearing accounts."
+    }
+  ]
+}

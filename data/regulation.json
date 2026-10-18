@@ -1,0 +1,61 @@
+{
+  "laws": [
+    {
+      "term": "EU AI Act · Art. 5",
+      "def": "In force since February 2, 2025, with fines to €35M or 7% of global turnover. Prohibits AI that manipulates or exploits vulnerability into significant psychological or financial harm — Commission guidance explicitly cites products promising unrealistic mental-health benefits.",
+      "sub": "Our answer: Guardrails refuse health, death, pregnancy, and specific financial predictions by design."
+    },
+    {
+      "term": "California SB 243",
+      "def": "Effective January 1, 2026. Where a reasonable person could believe they're talking to a human, operators must give clear and conspicuous notice that it's AI, maintain self-harm protocols — and face a private right of action.",
+      "sub": "Our answer: AI-disclosure by default; Attest makes the human/AI boundary explicit and provable."
+    },
+    {
+      "term": "New York GBL §1700",
+      "def": "AI Companion Models statute, effective November 5, 2025. Disclosure duties and safety protocols for AI companions; Utah and Maine moved the same year. Expect ten-plus states and a likely FTC rule by ~2030.",
+      "sub": "Our answer: the human-vs-AI distinction becomes a legal requirement — which makes verified-human attestation a compliance feature, not a slogan."
+    },
+    {
+      "term": "FTC · Operation AI Comply",
+      "def": "Running since September 2024: DoNotPay's “robot lawyer” settled, Workado's accuracy claims prosecuted. The posture: existing deception law applies to AI, no differently. The FTC and state AGs also have a long history against fraudulent psychic operations.",
+      "sub": "Our answer: truthful “read by a human” labeling is precisely the claim the FTC rewards — because we can prove it."
+    },
+    {
+      "term": "Apple · Guideline 4.3",
+      "def": "Groups fortune-telling with spam; astrology apps report serial rejections (Struck: roughly ten). A white-label vendor shipping hundreds of near-identical practitioner apps would be a mass-rejection machine.",
+      "sub": "Our answer: web-first, PWA-first distribution with differentiated practitioner branding — and IAP-compliant checkout where stores are unavoidable."
+    },
+    {
+      "term": "Stripe · restricted businesses",
+      "def": "“Psychic services and fortune tellers” sit on the restricted list — prior written approval, jurisdiction bans, and practitioners report cancellations for the words on their checkout page.",
+      "sub": "Our answer: high-risk / merchant-of-record rails, careful category coding, conservative chargeback controls — with the Guardrails layer as underwriting evidence."
+    },
+    {
+      "term": "Meta · Personal Attributes policy",
+      "def": "Ads may not assert or imply a viewer's religion, health, or emotional state — sharply constraining “you”-style spiritual ad copy, with enforcement increasingly AI-driven and proactive.",
+      "sub": "Our answer: compliant, benefit-focused ad templates ship with every storefront."
+    }
+  ],
+  "guardrails": [
+    {
+      "glyph": "⊘",
+      "name": "Hard refusals",
+      "blurb": "No health prognoses, no death predictions, no pregnancy calls, no specific financial picks. These aren't product decisions to revisit — they're constitutional."
+    },
+    {
+      "glyph": "◈",
+      "name": "Disclosure by default",
+      "blurb": "Every AI-assisted artifact says so, plainly, before a seeker reads a word. SB 243's “clear and conspicuous” standard is our floor, not our ceiling."
+    },
+    {
+      "glyph": "☎︎",
+      "name": "Crisis protocols",
+      "blurb": "Self-harm signal detection routes to crisis resources and pauses the session — mandated in California and New York, active everywhere we operate."
+    },
+    {
+      "glyph": "§",
+      "name": "Audit trail",
+      "blurb": "Guardrail events, disclosures, and attestations are logged and exportable — the underwriting evidence that gets a practitioner through high-risk payments review."
+    }
+  ]
+}

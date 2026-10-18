@@ -1,0 +1,85 @@
+{
+  "tiers": [
+    {
+      "name": "Hearth",
+      "audience": "For the reader building a first paid practice",
+      "price": 39,
+      "sub": "+ 3.4% payment take · founding cohort locks $29",
+      "features": [
+        "Branded web storefront & booking",
+        "Engine + Corpus — charts and grounded drafts",
+        "Guardrails on by default",
+        "50 attested readings / month",
+        "Community & templates",
+        "× Voice model",
+        "× Seeker memory"
+      ],
+      "cta": "Start with Hearth",
+      "href": "contact.html"
+    },
+    {
+      "name": "Practice",
+      "audience": "For the working practitioner with a client book",
+      "price": 99,
+      "sub": "+ 2.9% payment take · founding cohort locks $79",
+      "highlight": true,
+      "features": [
+        "Everything in Hearth",
+        "Your Voice model — trained, owned, portable",
+        "Unlimited attested readings",
+        "Longitudinal seeker memory (consented)",
+        "Recurring memberships & digital products",
+        "Web-first client app (no app-store roulette)",
+        "Priority payments onboarding"
+      ],
+      "cta": "Join as a founding practitioner",
+      "href": "contact.html"
+    },
+    {
+      "name": "Sanctum",
+      "audience": "For studios, collectives, and multi-reader practices",
+      "price": 199,
+      "sub": "+ 2.4% payment take · per-seat add-ons",
+      "features": [
+        "Everything in Practice",
+        "Up to 5 practitioner seats",
+        "White-label domain & full theming",
+        "Synthesis layer (early access)",
+        "API access to Engine & Attest",
+        "Merchant-of-record onboarding support",
+        "Quarterly compliance review"
+      ],
+      "cta": "Talk to us about Sanctum",
+      "href": "contact.html"
+    }
+  ],
+  "notes": [
+    {
+      "term": "Payment take",
+      "def": "2.4–3.4% on processed volume, on top of underlying processor fees. It funds the thing that matters: high-risk-ready rails that don't cancel you for the word “tarot.”"
+    },
+    {
+      "term": "Founding cohort",
+      "def": "The first 25 design partners lock founding pricing for life, shape the roadmap directly, and get hand-held payments onboarding.",
+      "sub": "Benchmarked against vertical-SaaS norms of $29–199/mo — SimplePractice, Practice Better, Trainerize."
+    },
+    {
+      "term": "Discover take",
+      "def": "When the discovery marketplace ships (2029+), network referrals carry a 10–20% take. Your direct clients are always yours at your payment tier — we never re-rate them."
+    }
+  ],
+  "comparison": {
+    "dim": "What you're weighing",
+    "columns": ["DOGM.AI Practice", "DIY stack (Wix + Calendly + Patreon)", "Reading marketplaces (Keen, Purple Garden)"],
+    "rows": [
+      { "label": "Built for spiritual practice", "values": [true, false, "Partially — their brand, not yours"] },
+      { "label": "Payments that survive the word “psychic”", "values": [true, "Until the ban wave hits", "Yes, at 40–60% commission"] },
+      { "label": "AI drafting in your voice, owned by you", "values": [true, false, false] },
+      { "label": "Verified-human attestation", "values": [true, false, false] },
+      { "label": "SB 243 / EU AI Act guardrails", "values": [true, false, false] },
+      { "label": "Longitudinal seeker memory", "values": [true, false, "Locked to their platform"] },
+      { "label": "Your client list is yours", "values": [true, true, false] },
+      { "label": "Monthly cost", "values": ["$99 + 2.9%", "$95–140 across 4–5 tools", "“Free” — then half of every reading"] }
+    ]
+  }
+}

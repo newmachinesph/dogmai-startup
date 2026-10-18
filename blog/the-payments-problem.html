@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Payments Problem Nobody Will Solve — DOGM.AI Journal</title>
+<meta name="description" content="Stripe restricts psychic services. Apple rejects fortune-telling apps as spam. The whole trade runs on rails that can vanish overnight — and that is the opportunity.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='18' fill='%230b0912'/%3E%3Ctext x='50' y='72' font-size='64' text-anchor='middle' fill='%23d2a44c'%3E%E2%9C%B3%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body data-root=".." data-page="journal">
+<a class="skip-link" href="#main">Skip to content</a>
+<noscript><div class="notice" role="alert"><strong>JavaScript is off.</strong> This site loads its navigation and content from JSON at runtime — enable JavaScript to see it.</div></noscript>
+
+<main id="main">
+
+  <section class="page-hero" data-stars>
+    <div class="container container--prose">
+      <p class="crumb"><a href="../index.html">DOGM.AI</a> / <a href="index.html">Journal</a> / Infrastructure</p>
+      <h1>The payments problem <span class="ital">nobody will solve</span></h1>
+    </div>
+  </section>
+
+  <section class="sec sec--flush">
+    <div class="container container--prose">
+      <div class="byline"><span>Infrastructure</span><span>·</span><span>Jun 2026</span><span>·</span><span>6 min</span><span>·</span><span>The founder's desk</span></div>
+
+      <div class="prose rv">
+        <p>Ask a hundred practitioners what nearly ended their business and you will not hear about competition, or AI, or even the algorithm. You will hear a processor's name, and a date, and how much money was frozen when the email arrived.</p>
+
+        <h2>Contraband by keyword</h2>
+        <p>Stripe's restricted-business list names “psychic services and fortune tellers” — prior written approval required, banned outright in some jurisdictions. Square and PayPal hold similar postures. Practitioners have organized petitions over accounts cancelled for the words <em>psychic</em>, <em>fortune teller</em>, or <em>occult</em> appearing on a checkout page. Not fraud signals. Vocabulary.</p>
+
+        <p>The distribution story rhymes. Apple's Guideline 4.3 files fortune-telling with spam; the astrology app Struck reported roughly ten rejections before making it through. And Meta's Personal Attributes policy quietly kills the ad creative this trade would naturally write — you can't imply you know a viewer's religion or emotional state, which is roughly what “Your Saturn return is coming” does.</p>
+
+        <p>So the picture: a $2.3 billion US industry — 103,340 businesses, growing 5.5% a year — treated as contraband by the payment layer, spam by the distribution layer, and a policy violation by the marketing layer. Everyone in it is one automated keyword scan from a frozen quarter.</p>
+
+        <blockquote>A market's worst infrastructure gap is its best company's founding document.</blockquote>
+
+        <h2>Why it stays unsolved</h2>
+        <p>Because for everyone positioned to solve it, it's a bad trade. A mainstream processor gains nothing by re-underwriting a category its risk models flagged — the upside is basis points, the downside is a chargeback scandal in a category regulators already watch. A horizontal creator platform (Patreon, Circle, Kajabi) could add spiritual templates in a quarter, but negotiating high-risk underwriting for fortune-telling merchants means staking their brand on the exact category their counsel would advise against. And a solo practitioner has no leverage at all — they are, to an underwriter, a rounding error with a tarot deck.</p>
+
+        <p>The only actor with the right incentives is one whose <em>entire business</em> is this category: someone who aggregates hundreds of practices into an underwritable book, codes them honestly, runs conservative refund and chargeback controls, and — this is the part we find genuinely elegant — <strong>submits its compliance layer as underwriting evidence.</strong> Guardrail logs, disclosure records, attestation manifests: the same apparatus that satisfies a regulator reads, to an underwriter, as a risk profile no individual merchant could ever present.</p>
+
+        <h2>Risk and moat are the same fact</h2>
+        <p>Our market map calls payments the highest-probability killer of this company, and we've published that assessment — along with the mitigation sequence (merchant-of-record and high-risk relationships secured <em>before</em> scaling) and the tripwire: if the rails can't be secured by 2028, we pivot to software-only atop practitioners' existing approved processors. A narrower company, but a live one.</p>
+
+        <p>But if the rails hold — and the underwriting logic above is why we believe they will — then payments becomes the moat that horizontal platforms cannot cross without becoming us. Features get copied in a quarter. Underwriting relationships in a restricted category, backed by a compliance apparatus and two years of clean chargeback data, do not.</p>
+
+        <p>That's why Commerce ships first, before the glamorous modules. A practice that can't get paid doesn't need a voice model. It needs a bank that will take its money — and a vendor willing to be the one who asked.</p>
+
+        <hr>
+        <div class="aside"><span class="k">Sources</span> Stripe restricted-business documentation; Apple App Review Guideline 4.3 and press coverage of Struck's rejections; Meta Personal Attributes advertising policy; IBISWorld US Psychic Services (NAICS OD4413). Full sourcing in <a href="../research.html">the market map</a>.</div>
+      </div>
+
+      <div class="hero-ctas" style="margin-top:3rem">
+        <a class="btn" href="../payments.html">Inside Commerce <span class="arr">→</span></a>
+        <a class="btn btn--ghost" href="flat-is-fine.html">Next essay: Flat is fine</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<script src="../assets/js/main.js" defer></script>
+<script src="../assets/js/render.js" defer></script>
+</body>
+</html>

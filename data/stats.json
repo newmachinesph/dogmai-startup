@@ -1,0 +1,61 @@
+{
+  "home": [
+    {
+      "prefix": "$",
+      "value": "2.3",
+      "unit": "B",
+      "label": "US psychic-services industry revenue, growing 5.5% a year",
+      "source": "IBISWorld · 2025",
+      "spark": [1.35, 1.42, 1.5, 1.58, 1.67, 1.76, 1.86, 1.96, 2.07, 2.18, 2.3]
+    },
+    {
+      "count": "103340",
+      "value": "103,340",
+      "label": "Practitioner businesses in the US — none holding over 5% share",
+      "source": "IBISWorld · NAICS OD4413"
+    },
+    {
+      "count": "30",
+      "unit": "%",
+      "value": "30",
+      "label": "of US adults consult astrology, tarot, or a fortune teller yearly",
+      "source": "Pew Research · May 2025"
+    },
+    {
+      "count": "43",
+      "unit": "%",
+      "value": "43",
+      "label": "of women under 50 affirm astrology — the demand core we serve",
+      "source": "Pew Research · May 2025"
+    }
+  ],
+  "practitionerEconomy": [
+    {
+      "count": "103340",
+      "value": "103,340",
+      "label": "US practitioner businesses",
+      "source": "IBISWorld · 2025"
+    },
+    {
+      "count": "100",
+      "unit": "K",
+      "value": "100",
+      "label": "people employed in the trade",
+      "source": "IBISWorld · 2025"
+    },
+    {
+      "prefix": "$",
+      "count": "1.5",
+      "unit": "B",
+      "value": "1.5",
+      "label": "in annual wages",
+      "source": "IBISWorld · 2025"
+    },
+    {
+      "value": "<5",
+      "unit": "%",
+      "label": "max market share held by any single firm",
+      "source": "IBISWorld · 2025"
+    }
+  ]
+}

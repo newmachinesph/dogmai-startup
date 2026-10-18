@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "category": "",
+      "items": [
+        {
+          "q": "Why is there a payment take on top of the subscription?",
+          "a": "Because the take funds the moat. High-risk / merchant-of-record relationships for a restricted category cost real money to secure and maintain. 2.4–3.4% is what it costs to never again lose a quarter's income to a keyword scan — and it's a fraction of the 40–60% commission reading marketplaces charge."
+        },
+        {
+          "q": "Can I start on Hearth and move up?",
+          "a": "Yes, any time, prorated. Most design partners start on Practice for the Voice model — it's the tier the platform is really built around — but Hearth is a complete storefront-and-payments practice on its own."
+        },
+        {
+          "q": "Is there an annual discount?",
+          "a": "Two months free on annual plans. Founding cohort pricing ($29/$79, locked for life) beats every discount we'll ever run — which is rather the point of joining early."
+        },
+        {
+          "q": "What happens to my rate when Discover launches?",
+          "a": "Nothing. The 10–20% network take applies only to clients who find you through Discover. Your existing book and anyone you bring stays at your payment tier — we never re-rate your own clients."
+        }
+      ]
+    }
+  ]
+}

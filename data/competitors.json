@@ -1,0 +1,136 @@
+{
+  "bifurcation": [
+    {
+      "kicker": "Camp one",
+      "name": "Consumer apps",
+      "blurb": "Co-Star, Nebula, The Pattern, Sanctuary — B2C attention machines. They fight each other for the same 6% of weekly engagers and monetize with paywalls the app-store reviews despise. None of them equips a practitioner."
+    },
+    {
+      "kicker": "Camp two",
+      "name": "Calculation APIs",
+      "blurb": "Prokerala, AstrologyAPI — the ephemeris layer, sold by the credit. Excellent at computation, indifferent to practice. They're our suppliers before they're our competitors — and the ones to watch if they move up-stack."
+    },
+    {
+      "kicker": "The open middle",
+      "name": "Practitioner infrastructure",
+      "blurb": "Nobody owns “Shopify + voice model + compliance + attestation” for Western spiritual practitioners. The closest structural analog is what SimplePractice did for therapists. That's the seat we're taking."
+    }
+  ],
+  "matrix": {
+    "dim": "Player",
+    "columns": ["Serves", "Model", "Signal", "What they prove", "What they don't do"],
+    "rows": [
+      {
+        "name": "Co-Star",
+        "type": "Consumer app · US",
+        "values": [
+          "Consumers",
+          "Freemium app",
+          "$15M Series A · 20M+ downloads",
+          "A quarter of young US women 18–25 installed it — the demand core is real",
+          "Nothing for practitioners; AI-generated content only"
+        ]
+      },
+      {
+        "name": "Nebula (OBRIO)",
+        "type": "Consumer app · UA",
+        "values": [
+          "Consumers",
+          "Subscriptions + live readings",
+          "~$50M ARR · 30M+ users",
+          "Blended AI + live consults monetize at real scale",
+          "Marketplace-first; readers are supply, not customers"
+        ]
+      },
+      {
+        "name": "CHANI",
+        "type": "Media brand · US",
+        "values": [
+          "Consumers",
+          "$11.99/mo subscription, no ads, no VC",
+          "~$14M/yr est. · 1M+ monthly readers",
+          "“All-human, zero-AI” commands willingness to pay — our thesis, proven by someone else",
+          "One brand, one astrologer; not infrastructure"
+        ]
+      },
+      {
+        "name": "The Pattern",
+        "type": "Consumer app · US",
+        "values": [
+          "Consumers",
+          "Freemium app",
+          "18M+ profiles, near-zero marketing",
+          "Organic pull of personality-grade astrology",
+          "No practitioner surface at all"
+        ]
+      },
+      {
+        "name": "Sanctuary",
+        "type": "Consumer app · US",
+        "values": [
+          "Consumers",
+          "On-demand text readings",
+          "~$6.5M raised · no recent raise",
+          "On-demand reading demand exists",
+          "Signs of stagnation; readers gig for the platform's brand"
+        ]
+      },
+      {
+        "name": "AstroTalk",
+        "type": "Marketplace · India",
+        "values": [
+          "Consumers ↔ 13,000+ astrologers",
+          "Per-minute revenue share",
+          "~$78M FY24 revenue, profitable, ~$300M–$1B valuation talks",
+          "Verified-practitioner marketplaces reach venture scale — and content moderation is material to valuation",
+          "India-centric, consumer-brand-first; practitioners don't own the relationship"
+        ]
+      },
+      {
+        "name": "Prokerala · AstrologyAPI",
+        "type": "APIs · India",
+        "values": [
+          "Developers",
+          "Per-credit API",
+          "3,000+ products in 50 countries (incl. Snap, Bumble)",
+          "The calculation layer is a solved, licensable commodity",
+          "No voice, no attestation, no compliance, no commerce"
+        ]
+      },
+      {
+        "name": "Patreon · Circle · Kajabi",
+        "type": "Horizontal creator platforms",
+        "values": [
+          "All creators",
+          "Platform fee / SaaS",
+          "10% take (Patreon) · $89–199/mo (Circle)",
+          "Creator-economy rails generalize",
+          "Won't build ephemeris cores, tradition corpora, or attestation — the vertical depth is the moat"
+        ]
+      },
+      {
+        "name": "SimplePractice",
+        "type": "The structural analog",
+        "values": [
+          "Therapists",
+          "Vertical SaaS + payments",
+          "225,000+ clinicians · inside a ~$4B deal",
+          "One founder's vertical-SaaS insight can dominate a fragmented solo-professional market",
+          "Not our market — our blueprint"
+        ]
+      },
+      {
+        "name": "DOGM.AI",
+        "type": "Practitioner infrastructure",
+        "highlight": true,
+        "values": [
+          "Practitioners (B2B2C, always)",
+          "$39–199/mo SaaS + 2.4–3.4% payments + future network take",
+          "Founding cohort forming now",
+          "—",
+          "Sell readings direct to consumers. Ever. That discipline is the moat."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "modules": [
+    {
+      "glyph": "☉",
+      "name": "Engine",
+      "blurb": "A deterministic ephemeris and calculation core — Swiss-Ephemeris-grade charts, transits, and timing, licensed rather than reinvented so we build where it matters.",
+      "href": "platform.html",
+      "linkLabel": "The stack"
+    },
+    {
+      "glyph": "☽",
+      "name": "Corpus",
+      "blurb": "Interpretation grounded in named traditions and lineages — Hellenistic, Vedic, esoteric tarot — cited, versioned, and auditable. No hallucinated cosmology.",
+      "href": "voice-models.html",
+      "linkLabel": "Voice & Corpus"
+    },
+    {
+      "glyph": "☌",
+      "name": "Synthesis",
+      "blurb": "The genuinely novel layer: cross-system readings that weave natal astrology, tarot spreads, and numerology into one coherent narrative arc.",
+      "href": "synthesis.html",
+      "linkLabel": "Synthesis"
+    },
+    {
+      "glyph": "☿",
+      "name": "Voice",
+      "blurb": "A private model trained on your readings, your phrasing, your ethics. It drafts in your voice; you refine and sign. You own it, and it leaves with you.",
+      "href": "voice-models.html",
+      "linkLabel": "Voice models"
+    },
+    {
+      "glyph": "✳",
+      "name": "Attest",
+      "blurb": "Cryptographic, C2PA-style provenance on every reading: read by a verified human, disclosed where AI assisted, timestamped and tamper-evident.",
+      "href": "verified-human.html",
+      "linkLabel": "Attestation"
+    },
+    {
+      "glyph": "♄",
+      "name": "Memory",
+      "blurb": "Longitudinal seeker memory — consented, portable context that lets a returning client be met as a person, not a fresh intake form.",
+      "href": "synthesis.html",
+      "linkLabel": "Memory"
+    },
+    {
+      "glyph": "♎︎",
+      "name": "Guardrails",
+      "blurb": "Refusals for health, death, pregnancy, and specific financial predictions; AI-disclosure by default; self-harm protocols. Built for SB 243, NY §1700, and the EU AI Act.",
+      "href": "compliance.html",
+      "linkLabel": "Guardrails"
+    },
+    {
+      "glyph": "♃",
+      "name": "Commerce",
+      "blurb": "Storefronts, booking, and high-risk-ready payment rails under merchant-of-record discipline — the pain we solve first, because it's the one that kills practices.",
+      "href": "payments.html",
+      "linkLabel": "Commerce"
+    },
+    {
+      "glyph": "★",
+      "name": "Discover",
+      "blurb": "From 2029: a seeker-facing discovery layer across the network — attested practitioners, honest claims, a 10–20% take that funds the commons.",
+      "href": "roadmap.html",
+      "linkLabel": "Roadmap"
+    }
+  ],
+  "pains": [
+    {
+      "glyph": "⌀",
+      "name": "The account that vanishes",
+      "blurb": "Stripe lists psychic services among restricted businesses. Practitioners lose processing overnight for using the word “tarot” on a checkout page — with the quarter's income in limbo."
+    },
+    {
+      "glyph": "▢",
+      "name": "The app that never ships",
+      "blurb": "Apple's Guideline 4.3 groups fortune-telling with spam. Struck was rejected roughly ten times. A practitioner alone has no leverage and no appeal."
+    },
+    {
+      "glyph": "≈",
+      "name": "The AI that undercuts",
+      "blurb": "Generic AI readings are free and infinite. Translation lost a third of its work to the machine; stock photography collapsed. Interpretation-as-commodity is next."
+    },
+    {
+      "glyph": "⧉",
+      "name": "The stack held with tape",
+      "blurb": "Calendly for booking, Wix for the site, Patreon for members, Instagram for reach — five logins, zero of them built for sacred work, none of them defending you."
+    }
+  ]
+}

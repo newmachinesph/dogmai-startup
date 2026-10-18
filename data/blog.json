@@ -1,0 +1,41 @@
+{
+  "feature": true,
+  "posts": [
+    {
+      "title": "“Read by a human” is becoming law",
+      "excerpt": "California SB 243, New York §1700, Article 5 of the EU AI Act — three jurisdictions, one converging demand: tell people when they're talking to a machine. For most AI companies that's a compliance headache. For practitioners, it's the moat arriving on schedule.",
+      "category": "Regulation",
+      "date": "Jul 2026",
+      "read": "7 min",
+      "author": "The founder's desk",
+      "href": "blog/read-by-a-human.html"
+    },
+    {
+      "title": "The payments problem nobody will solve",
+      "excerpt": "Stripe lists psychic services as restricted. Square and PayPal follow suit. Apple rejects fortune-telling apps as spam. The entire trade runs on rails that can vanish overnight — and that, precisely, is the opportunity.",
+      "category": "Infrastructure",
+      "date": "Jun 2026",
+      "read": "6 min",
+      "author": "The founder's desk",
+      "href": "blog/the-payments-problem.html"
+    },
+    {
+      "title": "Flat is fine: the honest bull case",
+      "excerpt": "Belief in astrology hasn't moved in eight years. The “nones” have plateaued. We put those numbers in our own pitch — because a stable, mainstream, badly-tooled market is a better foundation than a hype curve.",
+      "category": "Market",
+      "date": "May 2026",
+      "read": "8 min",
+      "author": "The founder's desk",
+      "href": "blog/flat-is-fine.html"
+    },
+    {
+      "title": "The seven-year clock",
+      "excerpt": "In 2033 the Vatican will mark two thousand years since the Resurrection, and the world's attention will turn — briefly, massively — toward meaning itself. A plan for riding an attention wave you must never co-opt.",
+      "category": "Strategy",
+      "date": "Apr 2026",
+      "read": "9 min",
+      "author": "The founder's desk",
+      "href": "blog/seven-year-clock.html"
+    }
+  ]
+}

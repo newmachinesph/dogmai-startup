@@ -1,0 +1,154 @@
+{
+  "estimates": {
+    "title": "Published “astrology market” estimates conflict by orders of magnitude",
+    "source": "FIG. 01 · Multiple, 2025",
+    "sub": "We anchor on the one methodologically consistent primary series — IBISWorld's US Psychic Services industry — and treat vendor projections as projections.",
+    "tipKey": "Market estimate",
+    "mode": "emphasis",
+    "fmt": "usdB",
+    "dimLabel": "Estimate",
+    "unitLabel": "Size (USD)",
+    "max": 30,
+    "items": [
+      {
+        "label": "Horoscope apps only",
+        "sub": "Vendor estimate · 2025",
+        "value": 0.153,
+        "display": "$153M",
+        "tip": "The narrowest definition: paid horoscope-app revenue only."
+      },
+      {
+        "label": "US psychic services",
+        "sub": "IBISWorld · our anchor",
+        "value": 2.3,
+        "display": "$2.3B",
+        "emph": true,
+        "tip": "IBISWorld NAICS OD4413 — 5.5% CAGR to 2025, 103,340 businesses. The number we build against."
+      },
+      {
+        "label": "“Broad astrology market”",
+        "sub": "Vendor estimates · 2025",
+        "value": 13.5,
+        "display": "$12.8–14.3B",
+        "tip": "Definitions vary wildly; treat as directional at best."
+      },
+      {
+        "label": "Astrology & tarot by 2033",
+        "sub": "Vendor projection",
+        "value": 27.5,
+        "display": "$25–30B",
+        "tip": "A ~25% CAGR vendor projection — a hope, not a fact."
+      }
+    ],
+    "note": "Bars share one linear scale deliberately: the spread is the finding. “Market size” claims in this category are a definitional choice, not a measurement."
+  },
+  "who": {
+    "title": "Who actually engages",
+    "source": "FIG. 02 · Pew Research Center, May 2025 · n=9,593",
+    "sub": "Demand skews young, female, and LGBT — stable and mainstream rather than fringe or exploding.",
+    "tipKey": "Engagement",
+    "mode": "solid",
+    "fmt": "pct",
+    "dimLabel": "Group",
+    "unitLabel": "Share",
+    "max": 60,
+    "items": [
+      { "label": "LGBT adults", "sub": "consult horoscopes yearly", "value": 54 },
+      { "label": "Women under 50", "sub": "affirm astrology", "value": 43 },
+      { "label": "LGBT adults", "sub": "use tarot", "value": 33 },
+      { "label": "All US adults", "sub": "consult yearly (any practice)", "value": 30 },
+      { "label": "Adults 18–29", "sub": "use tarot", "value": 24 },
+      { "label": "All US adults", "sub": "use tarot", "value": 11 }
+    ],
+    "note": "Religious affiliation barely predicts engagement: 27% of Christians consult horoscopes vs 30% of the unaffiliated."
+  },
+  "depth": {
+    "title": "Engagement is wide, not deep — and that's the design constraint",
+    "source": "FIG. 03 · Pew Research Center, May 2025",
+    "sub": "Most engagement is “just for fun.” The practitioners we equip serve the committed core — and grow the middle.",
+    "tipKey": "Engagement depth",
+    "mode": "ordinal",
+    "fmt": "pct",
+    "dimLabel": "Cadence",
+    "unitLabel": "Share of US adults",
+    "max": 33,
+    "items": [
+      { "label": "At least yearly", "value": 30 },
+      { "label": "Monthly", "value": 14 },
+      { "label": "Weekly", "value": 6 },
+      { "label": "Rely a lot on it for major decisions", "value": 1 }
+    ],
+    "note": "A flat, wide market rewards the supply side: tools, productivity, and trust — not another consumer app fighting for the same 6%."
+  },
+  "proof": {
+    "title": "What the benchmarks prove",
+    "source": "FIG. 04 · Company filings & credible press, 2023–24",
+    "sub": "Annual revenue, latest credibly reported. CHANI is the emphasis for a reason: all-human, ad-free, and still at scale — evidence that “human-made” commands willingness to pay.",
+    "tipKey": "Benchmark",
+    "mode": "emphasis",
+    "fmt": "usdM",
+    "dimLabel": "Company",
+    "unitLabel": "Revenue (latest reported)",
+    "max": 85,
+    "items": [
+      {
+        "label": "AstroTalk",
+        "sub": "verified-astrologer marketplace · India",
+        "value": 78,
+        "display": "~$78M",
+        "tip": "FY24 revenue ₹651 crore, up 2.3× YoY and profitable — proof verified-practitioner marketplaces reach venture scale."
+      },
+      {
+        "label": "Nebula (OBRIO)",
+        "sub": "consumer app · AI + live readings",
+        "value": 50,
+        "display": "~$50M ARR",
+        "tip": "Bootstrapped inside Genesis; among the top-grossing horoscope apps in the US."
+      },
+      {
+        "label": "CHANI",
+        "sub": "all-human, no ads, no VC",
+        "value": 14,
+        "display": "~$14M",
+        "emph": true,
+        "tip": "Inc.-estimated ~$14M/yr, ~$11.99/mo subscriptions, 1M+ monthly readers, explicit zero-AI editorial policy."
+      }
+    ],
+    "note": "Figures are the latest credibly reported and not directly comparable (revenue vs ARR vs estimates). CHANI's is an Inc. estimate reported secondhand — flagged low-confidence in our market map."
+  },
+  "commoditization": {
+    "title": "What AI does to generic interpretive work",
+    "source": "FIG. 05 · SoA 2024 · Bloomberry · Demirci et al. 2024",
+    "sub": "Three adjacent language crafts, measured post-ChatGPT. Generic work is commoditized; relationship-, brand-, and provenance-based work holds. That asymmetry is our entire thesis.",
+    "tipKey": "Post-AI decline",
+    "mode": "solid",
+    "fmt": "pct",
+    "dimLabel": "Measure",
+    "unitLabel": "Decline",
+    "max": 40,
+    "items": [
+      {
+        "label": "Translators who already lost work to genAI",
+        "sub": "Society of Authors survey · Jan 2024",
+        "value": 36
+      },
+      {
+        "label": "Freelance writing demand",
+        "sub": "Demirci et al. · within 8 months of ChatGPT",
+        "value": 30
+      },
+      {
+        "label": "Automation-prone freelance postings",
+        "sub": "writing & coding · same study",
+        "value": 21
+      },
+      {
+        "label": "Upwork translation wages",
+        "sub": "Bloomberry · ~5M postings analyzed",
+        "value": 20,
+        "display": ">20%"
+      }
+    ],
+    "note": "An Oxford study attributed ~28,000 lost US translator jobs to machine translation. Stock photography followed the same curve — agencies now sell training data, not photos."
+  }
+}

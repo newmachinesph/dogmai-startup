@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "category": "The craft & AI",
+      "items": [
+        {
+          "q": "Is DOGM.AI going to replace readers with AI?",
+          "a": "No — structurally, permanently, no. We are B2B2C: we sell infrastructure to practitioners and never readings to seekers. The AI drafts in <em>your</em> voice from <em>your</em> corpus; you refine, you sign, and Attest records that a human did the reading. Breaking this discipline would destroy the one thing that makes us worth trusting — see <a href=\"manifesto.html\">the Covenant</a>."
+        },
+        {
+          "q": "My community is hostile to AI. Why would I touch this?",
+          "a": "Because the alternative isn't “no AI” — it's generic AI readings, free and infinite, undercutting your craft while you abstain. Translation lost over a third of its work to the machine; the readers who hold value are the ones whose name, voice, and verified humanity are the product. We built the tool that makes those three things stronger."
+        },
+        {
+          "q": "Which traditions does Corpus actually ground in?",
+          "a": "Named, versioned corpora — Hellenistic and modern psychological astrology, Vedic (jyotiṣa), esoteric and Rider-Waite-Smith tarot lineages, Pythagorean numerology — each citing its sources. If a draft can't cite a lineage, it doesn't ship. No hallucinated cosmology."
+        }
+      ]
+    },
+    {
+      "category": "Attestation",
+      "items": [
+        {
+          "q": "What exactly does the Attest seal prove?",
+          "a": "Three claims, cryptographically bound to the reading on C2PA-style provenance rails: a verified human practitioner authored or reviewed it; any AI assistance is disclosed at the step where it happened; and the artifact hasn't been altered since signing. A seeker can check the seal without an account."
+        },
+        {
+          "q": "Why does “read by a human” need to be provable now?",
+          "a": "Because it's becoming law. California SB 243 (2026) and New York's §1700 (2025) require clear disclosure when someone is talking to AI; the EU AI Act's Article 5 prohibitions are already in force. Regulation is converging on exactly the distinction Attest makes checkable — compliance became a feature."
+        },
+        {
+          "q": "Can I attest readings I do entirely by hand?",
+          "a": "Yes — Attest doesn't require using our AI at all. A fully-hand-drawn chart or in-person tarot session gets the same signed provenance. Many of our design partners use Attest first and Voice second."
+        }
+      ]
+    },
+    {
+      "category": "Payments & platforms",
+      "items": [
+        {
+          "q": "Why do practitioners keep losing their payment accounts?",
+          "a": "Mainstream processors classify psychic services as restricted — Stripe requires prior written approval and bans the category outright in some jurisdictions. Accounts get cancelled retroactively for the words “psychic” or “tarot” on a checkout page. It's the single deepest pain in the trade, which is why we solve it first."
+        },
+        {
+          "q": "How is DOGM.AI's payment rail different?",
+          "a": "We underwrite the category deliberately: high-risk / merchant-of-record relationships negotiated for spiritual services, honest merchant-category coding, conservative refund and chargeback controls — and the Guardrails audit trail as evidence in underwriting. Your take rate (2.4–3.4%) funds exactly that."
+        },
+        {
+          "q": "What about the Apple App Store?",
+          "a": "Apple's Guideline 4.3 groups fortune-telling with spam, and astrology apps report serial rejections. So we're web-first by design: your storefront and client experience are installable PWAs on your own domain — no gatekeeper, no 30% cut, no rejection roulette."
+        }
+      ]
+    },
+    {
+      "category": "Data & ownership",
+      "items": [
+        {
+          "q": "Who owns my voice model?",
+          "a": "You do — contractually and practically. It's trained only on material you provide, it's never pooled with other practitioners' models, it never trains anyone else's, and if you leave, it exports with you and we delete our copy."
+        },
+        {
+          "q": "What does “seeker memory” store, and who consented?",
+          "a": "Memory holds what a returning client chose to carry forward — past readings, stated intentions, life context — under explicit, revocable seeker consent. The seeker can view, export, or erase it; you see only what they've shared with your practice."
+        },
+        {
+          "q": "Do you train on my clients' data?",
+          "a": "No. Client readings and seeker memory are never training data — not for your model, not for anyone's. Voice models train exclusively on practitioner-provided material."
+        }
+      ]
+    },
+    {
+      "category": "Pricing & partnership",
+      "items": [
+        {
+          "q": "What does the founding cohort actually get?",
+          "a": "The first 25 practitioners lock founding pricing for life ($29 Hearth / $79 Practice), get hand-held payments onboarding, direct roadmap input in a monthly circle, and first access to Attest and Voice as they ship. In exchange we ask for honest, frequent feedback."
+        },
+        {
+          "q": "Is there a marketplace commission?",
+          "a": "Not today — Discover doesn't launch until 2029 at the earliest. When it does, only clients who find you through the network carry its 10–20% take. Clients you bring stay at your payment tier forever; we never re-rate your book."
+        },
+        {
+          "q": "What happens to my practice if DOGM.AI shuts down?",
+          "a": "You keep everything: your domain, your client list, your voice model export, your reading archive with attestations intact (they verify independently — that's the point of C2PA-style rails), and 90 days of transition support. Infrastructure you can't leave isn't infrastructure — it's hostage-taking."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "term": "01 · Market size",
+      "def": "Published “astrology market” figures conflict by orders of magnitude — from ~$153M (horoscope apps) to $25–30B (2033 projections). The credible anchor: IBISWorld's US Psychic Services industry at <strong>$2.3B</strong>, 5.5% CAGR, 103,340 businesses, no firm above 5% share.",
+      "sub": "Large, slow-growing, highly fragmented — ideal terrain for infrastructure, hostile terrain for hype."
+    },
+    {
+      "term": "02 · The tailwind is flat",
+      "def": "US “nones” have plateaued near 29%; belief in astrology is statistically unchanged over eight years (27% in 2024 vs 29% in 2017). The bet is formalizing and equipping an existing large market — not surfing a demand explosion.",
+      "sub": "Pew Religious Landscape Study 2023–24; Gallup 1990s–2000s corroborates."
+    },
+    {
+      "term": "03 · The growth vectors",
+      "def": "43% of women under 50 affirm astrology; 54% of LGBT adults consult horoscopes yearly and 33% use tarot — three times the national rate. But only 6% of Americans engage weekly and 1% rely on it for major decisions.",
+      "sub": "Pew Research Center, May 21 2025 · n = 9,593 US adults."
+    },
+    {
+      "term": "04 · The 2033 Jubilee",
+      "def": "The Vatican has confirmed a Holy Year of Redemption in 2033 — the 2,000th anniversary of the Resurrection, with a global evangelization push. It will raise the cultural salience of meaning-seeking broadly; it is also explicitly Christian and doctrinally anti-divination.",
+      "sub": "Treat as an attention tailwind to ride obliquely — never to co-opt. This spillover thesis is inferential, not proven."
+    },
+    {
+      "term": "05 · Regulation converges on us",
+      "def": "EU AI Act Article 5 (in force Feb 2025), California SB 243 (Jan 2026, private right of action), New York §1700 (Nov 2025), FTC's Operation AI Comply — all tightening in exactly the areas our guardrails and attestation address.",
+      "sub": "The human-vs-AI distinction is becoming a legal requirement. Compliance moves from cost to moat."
+    },
+    {
+      "term": "06 · The existential risks are operational",
+      "def": "Stripe restricts psychic services; practitioners lose accounts over vocabulary. Apple's Guideline 4.3 rejects fortune-telling apps serially (Struck: ~10 times). This is precisely why B2B infrastructure that solves compliant payments and web-first distribution is valuable.",
+      "sub": "The biggest risk and the biggest value proposition are the same fact."
+    },
+    {
+      "term": "07 · The middle is open",
+      "def": "Consumer apps fight for attention; APIs sell computation; horizontal creator platforms won't build vertical depth. Nobody owns practitioner-first, white-label, AI-plus-human-attestation infrastructure for Western spiritual practitioners.",
+      "sub": "Closest structural analog: SimplePractice for therapists — 225,000+ clinicians, inside a ~$4B deal."
+    },
+    {
+      "term": "08 · Commoditization validates the thesis",
+      "def": "Post-ChatGPT: 36% of translators lost work, freelance writing demand fell ~30%, stock photography pivoted to selling training data. Generic interpretation is commoditizing — while relationship-, brand-, and provenance-based work retains value. CHANI's ~$14M all-human business is the proof point.",
+      "sub": "Verified-human positioning is directionally value-accretive and increasingly legally favored. Validate the premium empirically; don't assume it."
+    }
+  ],
+  "caveats": [
+    {
+      "term": "The qualified yes",
+      "def": "“Leading the niche by 2033” is achievable only if the niche is Western spiritual-practitioner infrastructure — not the astrology market at large — and only if payments get solved early, capital or profitability arrives by ~2028, and the B2B2C discipline holds."
+    },
+    {
+      "term": "Low-confidence datapoints",
+      "def": "CHANI's ~$14M is an Inc. estimate reported secondhand. Sanctuary's funding trackers disagree ($4.55–10.3M). The viral “68% of tarot readers lost 40%+ income” claim traces to a promotional source — we cite it nowhere as fact."
+    },
+    {
+      "term": "The Jubilee spillover is inferential",
+      "def": "Suggestive historical coincidence (the 2000-millennium New Age boom) but no rigorous study isolates Christian-observance spillover into non-Christian spiritual markets. A plausible attention tailwind — never a demand guarantee."
+    },
+    {
+      "term": "Vendor projections are projections",
+      "def": "App-market forecasts ($4B→$29.8B at ~25% CAGR) are vendor sales collateral. We anchor planning on IBISWorld's $2.3B primary series and flag everything else."
+    }
+  ],
+  "sources": [
+    { "term": "Pew Research Center", "def": "May 21, 2025 survey (n=9,593); Religious Landscape Study 2023–24. Engagement, demographics, and the plateau of the “nones.”" },
+    { "term": "IBISWorld", "def": "US Psychic Services (NAICS OD4413): $2.3B revenue, 5.5% CAGR, 103,340 businesses, ~100,000 employed, ~$1.5B wages." },
+    { "term": "Regulatory texts", "def": "EU AI Act Article 5; California SB 243; New York GBL §1700; FTC Operation AI Comply actions (DoNotPay, Workado)." },
+    { "term": "Company data", "def": "Funding and revenue via credible press: Co-Star ($15M Series A), AstroTalk (₹651 crore FY24, ~$30M raised), Nebula (~$50M ARR), CHANI (Inc. estimate), Sanctuary (trackers conflict)." },
+    { "term": "Commoditization studies", "def": "Society of Authors survey (Jan 2024); Bloomberry Upwork analysis (~5M postings); Demirci et al. 2024; Oxford machine-translation employment study." },
+    { "term": "Platform policies", "def": "Stripe restricted-business list; Apple App Review Guideline 4.3; Meta Personal Attributes advertising policy." }
+  ]
+}

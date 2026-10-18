@@ -1,0 +1,102 @@
+{
+  "name": "DOGM.AI",
+  "legalName": "DOGM.AI, Inc.",
+  "tagline": "Infrastructure for the practice",
+  "contact": {
+    "email": "hello@dogm.ai",
+    "partners": "partners@dogm.ai",
+    "press": "press@dogm.ai"
+  },
+  "nav": {
+    "groups": [
+      {
+        "label": "Platform",
+        "items": [
+          { "label": "The Stack", "desc": "Nine modules, one practice", "href": "platform.html" },
+          { "label": "Attest", "desc": "Verified-human attestation", "href": "verified-human.html" },
+          { "label": "Voice", "desc": "AI trained on your voice, owned by you", "href": "voice-models.html" },
+          { "label": "Commerce", "desc": "Payments that don't get cancelled", "href": "payments.html" },
+          { "label": "Synthesis & Memory", "desc": "Cross-system readings, longitudinal context", "href": "synthesis.html" },
+          { "label": "Guardrails", "desc": "Compliance as a moat", "href": "compliance.html" }
+        ]
+      },
+      {
+        "label": "Insight",
+        "items": [
+          { "label": "The Market", "desc": "A $2.3B practice economy, mapped", "href": "market.html" },
+          { "label": "The Landscape", "desc": "Why the middle is open", "href": "competitors.html" },
+          { "label": "Roadmap to 2033", "desc": "Four phases, one category", "href": "roadmap.html" },
+          { "label": "The Market Map", "desc": "The full seven-year research report", "href": "research.html" },
+          { "label": "Journal", "desc": "Notes from the build", "href": "blog/index.html" }
+        ]
+      },
+      {
+        "label": "Company",
+        "items": [
+          { "label": "About", "desc": "Why we're building this", "href": "about.html" },
+          { "label": "The Covenant", "desc": "Five commitments we won't break", "href": "manifesto.html" },
+          { "label": "Investors", "desc": "The thesis in brief", "href": "investors.html" },
+          { "label": "Careers", "desc": "Join the founding circle", "href": "careers.html" },
+          { "label": "Contact", "desc": "Design partnership & press", "href": "contact.html" }
+        ]
+      }
+    ],
+    "links": [
+      { "id": "practitioners", "label": "Practitioners", "href": "practitioners.html" },
+      { "id": "pricing", "label": "Pricing", "href": "pricing.html" }
+    ],
+    "cta": { "label": "Join the cohort", "href": "contact.html" }
+  },
+  "footer": {
+    "signoff": "The craft is ancient. <em>The infrastructure is finally yours.</em>",
+    "mini": "White-label AI infrastructure for spiritual practitioners — storefronts, compliant payments, practitioner-owned voice models, and verified-human attestation. We never sell readings.",
+    "tagline": "B2B2C, always",
+    "columns": [
+      {
+        "label": "Platform",
+        "items": [
+          { "label": "The Stack", "href": "platform.html" },
+          { "label": "Attest", "href": "verified-human.html" },
+          { "label": "Voice", "href": "voice-models.html" },
+          { "label": "Commerce", "href": "payments.html" },
+          { "label": "Synthesis & Memory", "href": "synthesis.html" },
+          { "label": "Guardrails", "href": "compliance.html" }
+        ]
+      },
+      {
+        "label": "Practice",
+        "items": [
+          { "label": "For practitioners", "href": "practitioners.html" },
+          { "label": "Pricing", "href": "pricing.html" },
+          { "label": "FAQ", "href": "faq.html" },
+          { "label": "Contact", "href": "contact.html" }
+        ]
+      },
+      {
+        "label": "Insight",
+        "items": [
+          { "label": "The market", "href": "market.html" },
+          { "label": "The landscape", "href": "competitors.html" },
+          { "label": "Roadmap to 2033", "href": "roadmap.html" },
+          { "label": "The market map", "href": "research.html" },
+          { "label": "Journal", "href": "blog/index.html" }
+        ]
+      },
+      {
+        "label": "Company",
+        "items": [
+          { "label": "About", "href": "about.html" },
+          { "label": "The Covenant", "href": "manifesto.html" },
+          { "label": "Investors", "href": "investors.html" },
+          { "label": "Careers", "href": "careers.html" },
+          { "label": "Legal", "href": "legal/index.html" }
+        ]
+      }
+    ],
+    "baseLinks": [
+      { "label": "Privacy", "href": "legal/index.html" },
+      { "label": "Terms", "href": "legal/index.html#terms" },
+      { "label": "FAQ", "href": "faq.html" }
+    ]
+  }
+}

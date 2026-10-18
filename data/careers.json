@@ -1,0 +1,62 @@
+{
+  "values": [
+    {
+      "glyph": "✳",
+      "name": "The seller of tools, never fortunes",
+      "blurb": "We equip practitioners; we never compete with them. If a feature idea requires selling readings to consumers, the idea dies in the meeting."
+    },
+    {
+      "glyph": "♎︎",
+      "name": "Compliance is craft",
+      "blurb": "Guardrails, disclosure, and attestation aren't legal chores — they're the product. We hire people who find elegance in doing the careful thing beautifully."
+    },
+    {
+      "glyph": "☽",
+      "name": "Respect the lineage",
+      "blurb": "Astrology and tarot carry centuries of tradition and communities with strong values, including skepticism of AI. We build with those communities, cite our corpora, and earn the room."
+    },
+    {
+      "glyph": "☿",
+      "name": "Small, sharp, honest",
+      "blurb": "A near-solo company through 2027 by design. Everyone ships, everyone talks to practitioners, and our market map — flat demand curve and all — is published on our own website."
+    }
+  ],
+  "roles": [
+    {
+      "title": "Founding Engineer",
+      "type": "Full-time",
+      "location": "Remote (US/EU)",
+      "mail": "hello@dogm.ai",
+      "body": "Second commit in the codebase. You'll own the storefront and payments surface end-to-end — TypeScript, a boring-on-purpose stack, and integrations with a licensed ephemeris core and a merchant-of-record rail. You'll talk to practitioners weekly.",
+      "asks": [
+        "Full-stack depth with payments or marketplace scar tissue",
+        "Comfort building against regulation (SB 243, EU AI Act) as spec",
+        "Care for the communities we serve — curiosity over cynicism"
+      ]
+    },
+    {
+      "title": "Practitioner Community Lead",
+      "type": "Part-time → full-time",
+      "location": "Remote",
+      "mail": "hello@dogm.ai",
+      "body": "You run the founding circle: recruiting the 25, hosting the monthly cohort calls, turning practitioner pain into ranked roadmap, and representing us in communities that are — reasonably — wary of AI. Practitioners trust you because you're one of them.",
+      "asks": [
+        "A working or recent practice (astrology, tarot, or adjacent)",
+        "Proof you can hold a community's trust online",
+        "Blunt, kind feedback instincts"
+      ]
+    },
+    {
+      "title": "Compliance Counsel",
+      "type": "Fractional",
+      "location": "Remote",
+      "mail": "hello@dogm.ai",
+      "body": "You keep the moat sharp: AI-disclosure statutes as they multiply across states, EU AI Act conformity, FTC posture, and the payments-underwriting file. You'll turn each new law into product spec within the month it passes.",
+      "asks": [
+        "Consumer-protection or AI-regulatory practice",
+        "Comfort advising a lean company that treats compliance as strategy",
+        "Plain-English drafting — our policies are read by tarot readers, not GCs"
+      ]
+    }
+  ]
+}

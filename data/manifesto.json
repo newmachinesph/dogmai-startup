@@ -1,0 +1,29 @@
+{
+  "tenets": [
+    {
+      "title": "We never sell readings.",
+      "body": "DOGM.AI is B2B2C, permanently. We sell infrastructure to practitioners; we never sell interpretation to seekers. Every feature proposal is tested against this line, and any that requires crossing it dies in the meeting — because our entire moat (community trust, regulatory alignment, human attestation) evaporates the day we compete with the people we serve.",
+      "oath": "If we break this, leave us."
+    },
+    {
+      "title": "Your voice model is yours.",
+      "body": "Trained only on material you provide. Never pooled, never used to train another model, never retained after you leave. Ownership is written into the contract and the architecture — export takes one click, and our copy is deleted on departure.",
+      "oath": "Craft is not a dataset to be strip-mined."
+    },
+    {
+      "title": "Every reading carries its seal.",
+      "body": "Human authorship or review, disclosed AI assistance, tamper-evidence — bound to the artifact on C2PA-style rails that verify without us. We make the honest state of every reading checkable by anyone, because trust that can't be verified is just branding.",
+      "oath": "Proof over promises."
+    },
+    {
+      "title": "The guardrails are constitutional.",
+      "body": "No health prognoses, no death predictions, no pregnancy calls, no specific financial picks, crisis protocols always on, disclosure by default. These are not settings, not premium toggles, and not up for A/B testing. They are conditions of the platform's existence.",
+      "oath": "The vulnerable are not a segment."
+    },
+    {
+      "title": "We amplify the reader. We never replace them.",
+      "body": "AI drafts; the human refines, signs, and answers for the work. The order is the ethic: machine first, human last, on the record. We build for the practitioner's next decade, not for a quarter of engagement metrics.",
+      "oath": "The sacred stays human."
+    }
+  ]
+}
